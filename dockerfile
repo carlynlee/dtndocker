@@ -107,7 +107,7 @@ RUN ldconfig
 RUN mkdir /docker
 #VOLUME /docker 
 
-WORKDIR /tmp/ion-open-source-4.0.0/tests/priorities
+WORKDIR /tmp/ion-open-source-4.0.0/tests/
 
 #ENTRYPOINT ["tail -f /dev/null"]
 #ENTRYPOINT ["/bin/sleep" "10d"]
