@@ -1,6 +1,6 @@
 # dtndocker
 
-This repo uses examples directly from ion-open-source-4.0.0, which is available through https://sourceforge.net/projects/ion-dtn/. This repo also includess an updated version of ion-open-source-4.0.0 which is modified for the docker base image.
+This repo uses examples directly from ion-open-source-4.0.0, which is available through https://sourceforge.net/projects/ion-dtn/. This repo also includes an updated version of ion-open-source-4.0.0 which is modified for the docker base image.
 
 
 Some other links of interest include Keith Scott’s ION Development Kit distributions, which can be downloaded from
